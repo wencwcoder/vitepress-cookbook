@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-const svg = require('../src/public/svgs/index.ts')
+const svg = require('../src/public/svgs/index.js')
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -15,7 +15,7 @@ export default defineConfig({
       }
     ]
   ],
-  // base: '/repo/', // https://foo.github.io/repo/
+  base: '/vitepress-cookbook/', // https://foo.github.io/repo/
   cleanUrls: true,
   srcDir: './src',
   outDir: './.vitepress/dist',  // '../dist'

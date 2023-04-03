@@ -1,4 +1,4 @@
 node_modules
 .temp
-dist
 cache
+dist
