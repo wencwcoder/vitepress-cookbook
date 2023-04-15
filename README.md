@@ -1,2 +1,2 @@
 # vitepress-cookbook
-vitepress
+gh-pages
