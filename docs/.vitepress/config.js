@@ -11,7 +11,7 @@ export default defineConfig({
       'link',
       {
         rel: "icon",
-        href: "/imgs/favicon.ico"
+        href: "/vitepress-cookbook/imgs/favicon.ico"
       }
     ]
   ],
