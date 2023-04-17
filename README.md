@@ -1,2 +1,0 @@
-# vitepress-cookbook
-gh-pages
