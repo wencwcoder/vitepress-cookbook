@@ -7,13 +7,7 @@ export default defineConfig({
   // titleTemplate: 'Custom Suffix',
   description: "A VitePress Site",
   head: [
-    [
-      'link',
-      {
-        rel: "icon",
-        href: "/vitepress-cookbook/imgs/favicon.ico"
-      }
-    ]
+    ['link', { rel: 'icon', href: '/vitepress-cookbook/imgs/favicon.ico' }]
   ],
   base: '/vitepress-cookbook/', // https://foo.github.io/repo/
   cleanUrls: true,
@@ -118,6 +112,9 @@ export default defineConfig({
     darkModeSwitchLabel: 'Appearance', // only displayed in the mobile view
     sidebarMenuLabel: 'Menu', // only displayed in the mobile view
     returnToTopLabel: 'Return to top', // only displayed in the mobile view
-    // langMenuLabel: 'Change language'
+    // langMenuLabel: 'Change language',
+    search: {
+      provider: 'local'
+    }
   }
 })
