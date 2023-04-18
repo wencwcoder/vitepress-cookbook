@@ -94,10 +94,10 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/wencwcoder' },
       { icon: { svg: svg.juejin }, link: 'https://juejin.cn/user/3878732754590797/activities' }
     ],
-    footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2023-present Wen'
-    },
+    // footer: {
+    //   message: 'Released under the MIT License.',
+    //   copyright: 'Copyright © 2023-present Wen'
+    // },
     // editLink: {
     //   pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
     //   text: 'Edit this page on GitHub'
