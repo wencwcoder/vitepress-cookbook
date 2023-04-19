@@ -7,7 +7,7 @@ hero:
   text: A VitePress Site
   tagline: My great project tagline
   # image:
-  #   src: /imgs/avatar.png
+  #   src: /imgs/avatar/avatar.png
   #   alt: avatar
   actions:
     - theme: brand
@@ -18,19 +18,24 @@ hero:
       link: https://github.com/wencwcoder
 
 features:
-  - icon: 🛠️
+  - icon:
+      src: /imgs/avatar/1.jpg
     title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon:
-      src: /imgs/avatar.png
+      dark: /imgs/avatar/2.jpg
+      light: /imgs/avatar/2.jpg
     title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - icon:
-      dark: /imgs/avatar.png
-      light: /imgs/avatar.png
+  - icon: 🛠️
     title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: https://github.com/wencwcoder
     linkText: GitHub
 ---
 
+<style>
+.VPFeature .VPImage {
+  border-radius: 6px; 
+}
+</style>
