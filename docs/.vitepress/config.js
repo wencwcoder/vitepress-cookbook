@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+const nav = require('./config/nav.js')
+const sidebar = require('./config/sidebar.js')
 const svg = require('../src/public/svgs/index.js')
 
 // https://vitepress.dev/reference/site-config
@@ -32,61 +34,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/imgs/favicon.ico', // in nav bar
     siteTitle: 'Hello World', // in nav bar
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Start', link: '/start' },
-      {
-        text: 'Summary',
-        items: [
-          { 
-            text: 'Guide',
-            items: [
-              { text: 'Index', link: '/guide/' },
-              { text: 'One', link: '/guide/one' },
-              { text: 'Two', link: '/guide/two' }
-            ]
-          },
-          { 
-            text: 'Config',
-            items: [
-              { text: 'Index', link: '/config/' },
-              { text: 'Three', link: '/config/three' },
-              { text: 'Four', link: '/config/four' }
-            ]
-          }
-        ]
-      }
-    ],
-    sidebar: {
-      '/guide/': [
-        {
-          text: 'Guide',
-          items: [
-            { text: 'Index', link: '/guide/' },
-            { text: 'One', link: '/guide/one' },
-            { text: 'Two', link: '/guide/two' },
-            { 
-              text: 'Examples',
-              collapsed: true,
-              items: [
-                { text: 'One', link: '/guide/one' },
-                { text: 'Two', link: '/guide/two' }
-              ]
-            }
-          ]
-        }
-      ],
-      '/config/': [
-        {
-          text: 'Config',
-          items: [
-            { text: 'Index', link: '/config/' },
-            { text: 'Three', link: '/config/three' },
-            { text: 'Four', link: '/config/four' }
-          ]
-        }
-      ]
-    },
+    nav: nav,
+    sidebar: sidebar,
     aside: true,
     outline: [2,4],
     outlineTitle: 'On this page',
