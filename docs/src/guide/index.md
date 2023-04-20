@@ -1,3 +1,0 @@
-## guide
-
-### index.md
