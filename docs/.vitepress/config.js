@@ -9,7 +9,8 @@ export default defineConfig({
   // titleTemplate: 'Custom Suffix',
   description: "A VitePress Site",
   head: [
-    ['link', { rel: 'icon', href: '/vitepress-cookbook/imgs/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/vitepress-cookbook/imgs/favicon.ico' }],
+    ['script', { language: 'javascript', type: 'text/javascript', src: '/vitepress-cookbook/js/BaiduStatistics.js'}]
   ],
   base: '/vitepress-cookbook/', // https://foo.github.io/repo/
   cleanUrls: true,
