@@ -7,7 +7,7 @@ module.exports = [
       { text: 'Frontend', link: '/frontend/' },
       { text: 'Backend', link: '/backend/' },
       { text: 'Blog', link: '/blog/' },
-      { text: 'Notes', link: '/notes/' },
+      { text: 'Note', link: '/note/' },
     ]
   }
 ]

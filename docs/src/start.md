@@ -59,7 +59,7 @@ title: VitePress
 1.  *前端  frontend*
 2.  *后端  backend*
 3.  *博客  blog*
-4.  *笔记  notes*
+4.  *笔记  note*
 5.  *人工智能  ai*
 6.  *计算机基础  computer-basics*
 7.  *测试运维  devops*

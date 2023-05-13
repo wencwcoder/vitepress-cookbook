@@ -48,17 +48,17 @@ module.exports = {
       ]
     }
   ],
-  '/notes': [
+  '/note': [
     {
-      text: 'Notes',
+      text: 'Note',
       items: [
-        { text: 'Summary', link: '/notes/' },
+        { text: 'Summary', link: '/note/' },
         {
           text: 'Placeholder',
           collapsed: true,
           items: [
-            { text: 'One', link: '/notes/one' },
-            { text: 'Two', link: '/notes/two' },
+            { text: 'One', link: '/note/one' },
+            { text: 'Two', link: '/note/two' },
           ]
         }
       ]
