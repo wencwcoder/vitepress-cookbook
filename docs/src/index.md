@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: My Blog
-  text: A VitePress Site
-  tagline: My great project tagline
+  name: Blog
+  # text: Idleness breeds affectation
+  tagline: 越闲，越矫情
   # image:
   #   src: /imgs/avatar/avatar.png
   #   alt: avatar
@@ -15,23 +15,23 @@ hero:
       link: /start
     - theme: alt
       text: View on GitHub
-      link: https://github.com/wencwcoder
+      link: https://github.com/wencwcoder/vitepress-cookbook
 
 features:
   - icon:
       src: /imgs/avatar/1.jpg
-    title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    title: Focus on Your Content
+    details: Effortlessly create beautiful documentation sites with just markdown.
   - icon:
       dark: /imgs/avatar/2.jpg
       light: /imgs/avatar/2.jpg
-    title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - icon: 🛠️
-    title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: https://github.com/wencwcoder
-    linkText: GitHub
+    title: Ship Fast Sites
+    details: Fast initial load with static HTML, fast post-load navigation with client-side routing.
+  - icon: 🚀
+    title: Link
+    details: The source code of this site can click on the above "View on GitHub"
+    # link: https://github.com/wencwcoder/vitepress-cookbook
+    # linkText: GitHub
 ---
 
 <style>
