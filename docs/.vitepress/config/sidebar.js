@@ -38,7 +38,7 @@ module.exports = {
         { text: 'Summary', link: '/blog/' },
         { text: 'Link', link: 'https://www.google.com' },
         {
-          text: 'Placeholder',
+          text: '面试资源',
           collapsed: true,
           items: [
             { text: 'One', link: '/blog/one' },
