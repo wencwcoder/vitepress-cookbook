@@ -56,8 +56,8 @@ export default defineConfig({
     // algolia: AlgoliaSearch,
     // carbonAds: CarbonAdsOptions,
     docFooter: {
-      prev: 'Previous page',
-      next: 'Next page'
+      prev: 'Previous Page',
+      next: 'Next Page'
     },
     darkModeSwitchLabel: 'Appearance', // only displayed in the mobile view
     sidebarMenuLabel: 'Menu', // only displayed in the mobile view
