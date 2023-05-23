@@ -1,12 +1,13 @@
 ---
 title: vitepress-summary
+date: 2023-04-20
 ---
 
 # vitepress-summary
 
 
 
-## 快速开始
+## Getting Started
 
 ```bash
 npx vitepress init
@@ -45,9 +46,22 @@ npm install -D vitepress
 ```yaml
 ---
 title: VitePress
+date: 2023-04-20
 ---
 
 # VitePress
+
+::: info 源链接
+This is an info box.
+:::
+
+::: tip
+This is a tip.
+:::
+
+
+
+## Getting Started
 ```
 
 
