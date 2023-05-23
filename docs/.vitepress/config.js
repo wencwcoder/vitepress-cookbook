@@ -39,7 +39,7 @@ export default defineConfig({
     sidebar: sidebar,
     aside: true,
     outline: [2,4],
-    outlineTitle: 'On this page',
+    outlineTitle: 'On This Page',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wencwcoder' },
       { icon: { svg: svg.juejin }, link: 'https://juejin.cn/user/3878732754590797/activities' }
