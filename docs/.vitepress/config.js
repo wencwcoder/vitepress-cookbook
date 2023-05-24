@@ -42,7 +42,8 @@ export default defineConfig({
     outlineTitle: 'On This Page',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wencwcoder' },
-      { icon: { svg: svg.juejin }, link: 'https://juejin.cn/user/3878732754590797/activities' }
+      { icon: { svg: svg.juejin }, link: 'https://juejin.cn/user/3878732754590797/activities' },
+      { icon: { svg: svg.program }, link: 'https://www.tiobe.com/tiobe-index/' }
     ],
     // footer: {
     //   message: 'Released under the MIT License.',
