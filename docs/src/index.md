@@ -11,8 +11,8 @@ hero:
   #   alt: avatar
   actions:
     - theme: brand
-      text: Start
-      link: /start
+      text: Guide
+      link: /guide
     - theme: alt
       text: View on GitHub
       link: https://github.com/wencwcoder/vitepress-cookbook
