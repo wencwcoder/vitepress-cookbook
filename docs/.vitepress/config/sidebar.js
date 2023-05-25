@@ -36,13 +36,16 @@ module.exports = {
       text: 'Blog',
       items: [
         { text: 'Summary', link: '/blog/' },
-        { text: 'Link', link: 'https://www.google.com' },
+        { text: 'Link', link: '/blog/link.md' },
+        { text: '前端开发环境搭建', link: '/blog/frontend-environment-setup.md' },
         {
           text: '面试资源',
           collapsed: true,
           items: [
-            { text: 'One', link: '/blog/one' },
-            { text: 'Two', link: '/blog/two' },
+            { text: '面试题[HTML5_CSS3]', link: '/blog/interview/230523.md' },
+            { text: '面试题[JavaScript]', link: '/blog/interview/230524.md' },
+            { text: '面试题[浏览器]', link: '/blog/interview/230525.md' },
+            { text: '面试题[HTTP]', link: '/blog/interview/230526.md' }
           ]
         }
       ]
