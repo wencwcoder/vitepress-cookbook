@@ -45,7 +45,8 @@ module.exports = {
             { text: '面试题[HTML5_CSS3]', link: '/blog/interview/230523.md' },
             { text: '面试题[JavaScript]', link: '/blog/interview/230524.md' },
             { text: '面试题[浏览器]', link: '/blog/interview/230525.md' },
-            { text: '面试题[HTTP]', link: '/blog/interview/230526.md' }
+            { text: '面试题[HTTP]', link: '/blog/interview/230526.md' },
+            { text: '面试题[Vue]', link: '/blog/interview/230527.md' }
           ]
         }
       ]
