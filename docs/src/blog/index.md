@@ -26,3 +26,4 @@ date: 2021-04-20
 ## 手写系列
 
 - [手写题[JavaScript]](/blog/handwritten/230608.md)
+- [手写题[算法题]](/blog/handwritten/230615.md)
