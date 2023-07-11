@@ -9,6 +9,7 @@ date: 2021-04-20
 
 ## 面试系列
 
+- [面经[主观问题]](/blog/interview/230707.md)
 - [面经[离职原因]](/blog/interview/230515.md)
 - [面试题[HTML5_CSS3]](/blog/interview/230523.md)
 - [面试题[JavaScript]](/blog/interview/230524.md)
