@@ -39,6 +39,13 @@ module.exports = {
         { text: 'Link', link: '/blog/link.md' },
         { text: '前端开发环境搭建', link: '/blog/frontend-environment-setup.md' },
         {
+          text: '简历系列',
+          collapsed: true,
+          items: [
+            
+          ]
+        },
+        {
           text: '面试系列',
           collapsed: true,
           items: [
