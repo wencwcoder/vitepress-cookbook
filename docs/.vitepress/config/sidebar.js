@@ -42,7 +42,7 @@ module.exports = {
           text: '简历系列',
           collapsed: true,
           items: [
-            
+            { text: '简历', link: '/blog/resume/230913.md' },
           ]
         },
         {
