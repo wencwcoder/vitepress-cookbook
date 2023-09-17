@@ -58,6 +58,7 @@ module.exports = {
             { text: '面试题[HTTP]', link: '/blog/interview/230526.md' },
             { text: '面试题[Vue]', link: '/blog/interview/230527.md' },
             { text: '面试题[Vue生态系统]', link: '/blog/interview/230917.md' },
+            { text: '面试题[Vue vs React]', link: '/blog/interview/230920.md' },
             { text: '面试题[React]', link: '/blog/interview/230606.md' },
             { text: '面试题[性能优化]', link: '/blog/interview/230607.md' },
             { text: '面试题[前端运维]', link: '/blog/interview/230915.md' },

@@ -24,6 +24,7 @@ date: 2021-04-20
 - [面试题[HTTP]](/blog/interview/230526.md)
 - [面试题[Vue]](/blog/interview/230527.md)
 - [面试题[Vue生态系统]](/blog/interview/230917.md)
+- [面试题[Vue vs React]](/blog/interview/230920.md)
 - [面试题[React]](/blog/interview/230606.md)
 - [面试题[性能优化]](/blog/interview/230607.md)
 - [面试题[前端运维]](/blog/interview/230915.md)
