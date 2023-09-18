@@ -65,6 +65,7 @@ module.exports = {
             { text: '面试题[前端工程化]', link: '/blog/interview/230601.md' },
             { text: '面试题[前端项目相关]', link: '/blog/interview/230602.md' },
             { text: '面试题[计算机网络]', link: '/blog/interview/230618.md' },
+            { text: '面试题[Node]', link: '/blog/interview/230922.md' },
             { text: '面试题[其它]', link: '/blog/interview/230918.md' }
           ]
         },
