@@ -78,6 +78,7 @@ This is a tip.
 6.  *计算机基础  computer-basics*
 7.  *测试运维  devops*
 8.  *产品运营  po*
+9.  *证书考试 certificate-exam*
 
 
 
