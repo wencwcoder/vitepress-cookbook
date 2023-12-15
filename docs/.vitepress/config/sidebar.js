@@ -5,11 +5,12 @@ module.exports = {
       items: [
         { text: 'Summary', link: '/frontend/' },
         {
-          text: 'Placeholder',
+          text: 'React',
           collapsed: true,
           items: [
-            { text: 'One', link: '/frontend/one' },
-            { text: 'Two', link: '/frontend/two' },
+            { text: 'React基础知识', link: '/frontend/react/231215.md' },
+            { text: 'React实战案例', link: '/frontend/react/231216.md' },
+            { text: 'React官网学习记录', link: '/frontend/react/231220.md' },
           ]
         }
       ]
