@@ -40,7 +40,7 @@ date: 2021-04-20
 - [面试题[微前端]](/blog/interview/240131.md)
 - [面试题[计算机网络]](/blog/interview/230618.md)
 - [面试题[操作系统]](/blog/interview/230923.md)
-- [面试题[其它]](/blog/interview/230918.md)
+- [面试题[其它][场景题]](/blog/interview/230918.md)
 
 
 
