@@ -44,6 +44,7 @@ module.exports = {
           collapsed: true,
           items: [
             { text: '告前端同学书', link: '/blog/article/240130.md' },
+            { text: '怎样才算是中高级前端', link: '/blog/article/240308.md' },
           ]
         },
         {
