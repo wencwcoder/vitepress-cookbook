@@ -48,5 +48,6 @@ date: 2021-04-20
 
 ## 手写系列
 
-- [手写题[JavaScript]](/blog/handwritten/230608.md)
+- [手写题[JavaScript][工具类]](/blog/handwritten/230608.md)
+- [手写题[JavaScript][场景类]](/blog/handwritten/240313.md)
 - [手写题[算法题]](/blog/handwritten/230615.md)

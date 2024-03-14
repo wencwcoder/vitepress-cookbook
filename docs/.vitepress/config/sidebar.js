@@ -85,7 +85,8 @@ module.exports = {
           text: '手写系列',
           collapsed: true,
           items: [
-            { text: '手写题[JavaScript]', link: '/blog/handwritten/230608.md' },
+            { text: '手写题[JavaScript][工具类]', link: '/blog/handwritten/230608.md' },
+            { text: '手写题[JavaScript][场景类]', link: '/blog/handwritten/240313.md' },
             { text: '手写题[算法题]', link: '/blog/handwritten/230615.md' }
           ]
         }
