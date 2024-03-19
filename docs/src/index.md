@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: Blog
+  name: Hello World ∞
   # text: Idleness breeds affectation
   tagline: 越闲，越矫情
   # image:
