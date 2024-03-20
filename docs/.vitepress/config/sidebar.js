@@ -45,6 +45,7 @@ module.exports = {
           items: [
             { text: '告前端同学书', link: '/blog/article/240130.md' },
             { text: '怎样才算是中高级前端', link: '/blog/article/240308.md' },
+            { text: '为什么前端面试不考八股文了', link: '/blog/article/240319.md' },
           ]
         },
         {
