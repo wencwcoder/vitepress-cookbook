@@ -23,7 +23,9 @@ date: 2022-07-17
 
 ### Git
 
-下载：[https://git-scm.com/download/win](https://git-scm.com/download/win)，64-bit Git for Windows Setup --【Git-2.37.1-64-bit.exe】
+下载：[https://git-scm.com/download/win](https://git-scm.com/download/win)
+
+下载路径：64-bit Git for Windows Setup -- Git-2.37.1-64-bit.exe
 
 配置
 
@@ -36,6 +38,10 @@ date: 2022-07-17
 
 
 ### VSCode
+
+下载：[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
+
+下载路径：Windows -- VSCodeUserSetup-x64-1.87.2.exe
 
 settings.json
 
@@ -54,6 +60,7 @@ settings.json
 插件：https://marketplace.visualstudio.com/vscode
 
 ```markdown
+韭菜盒子
 Auto Close Tag
 Auto Rename Tag
 Bundle Size
@@ -65,7 +72,6 @@ DotENV
 Draw.io Integration
 ESLint
 Git History
-GitHub Copilot
 GitLens — Git supercharged
 Image preview
 JavaScript (ES6) code snippets
@@ -81,11 +87,19 @@ Prettier - Code formatter
 Stylelint
 Svg Preview
 Time Master
-TypeScript Vue Plugin (Volar)
+[✘] TypeScript Vue Plugin (Volar)
 Vetur
 vscode-icons
+Vue - Official
 Vue 3 Snippets
-Vue Language Features (Volar)
+[✘] Vue Language Features (Volar)
 Vue VSCode Snippets
+```
+
+AI Coding
+
+```markdown
+GitHub Copilot
+GitHub Copilot Chat
 ```
 
