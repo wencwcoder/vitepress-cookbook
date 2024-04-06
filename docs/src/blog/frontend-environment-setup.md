@@ -101,5 +101,6 @@ AI Coding
 ```markdown
 GitHub Copilot
 GitHub Copilot Chat
+Tabnine
 ```
 
