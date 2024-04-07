@@ -40,6 +40,13 @@ module.exports = {
         { text: 'Link', link: '/blog/link.md' },
         { text: '前端开发环境搭建', link: '/blog/frontend-environment-setup.md' },
         {
+          text: '博客搭建',
+          collapsed: true,
+          items: [
+            
+          ]
+        },
+        {
           text: '文章阅读',
           collapsed: true,
           items: [
