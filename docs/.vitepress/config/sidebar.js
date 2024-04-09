@@ -43,7 +43,7 @@ module.exports = {
           text: '博客搭建',
           collapsed: true,
           items: [
-            
+            { text: 'vitepress', link: '/blog/ssg/vitepress.md' },
           ]
         },
         {
