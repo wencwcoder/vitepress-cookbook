@@ -47,6 +47,13 @@ module.exports = {
           ]
         },
         {
+          text: '知识杂谈',
+          collapsed: true,
+          items: [
+
+          ]
+        },
+        {
           text: '文章阅读',
           collapsed: true,
           items: [
