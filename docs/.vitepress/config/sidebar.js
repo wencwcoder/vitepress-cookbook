@@ -115,13 +115,26 @@ module.exports = {
       items: [
         { text: 'Summary', link: '/note/' },
         {
-          text: 'Placeholder',
+          text: '随笔',
           collapsed: true,
           items: [
-            { text: 'One', link: '/note/one' },
-            { text: 'Two', link: '/note/two' },
+            
           ]
-        }
+        },
+        {
+          text: '极客时间',
+          collapsed: true,
+          items: [
+            
+          ]
+        },
+        {
+          text: '天下无鱼',
+          collapsed: true,
+          items: [
+            
+          ]
+        },
       ]
     }
   ]
