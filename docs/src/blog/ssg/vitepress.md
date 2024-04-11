@@ -111,12 +111,14 @@ Line ranges and single lines: for example {4,7-13,16,23-27,40}
 export default {
   data () {
     return {
-      msg: 'Focused!' // [!code focus]
+      msg: 'Focused!' // [!code  focus]
     }
   }
 }
 ```
 ~~~
+
+`正确写法 -- // [!code focus]`
 
 
 
