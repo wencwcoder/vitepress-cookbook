@@ -50,7 +50,7 @@ module.exports = {
           text: '知识杂谈',
           collapsed: true,
           items: [
-
+            { text: '配置文件结尾的"rc"是什么', link: '/blog/knowledge/240412.md' },
           ]
         },
         {

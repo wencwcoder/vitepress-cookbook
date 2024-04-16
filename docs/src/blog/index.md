@@ -14,7 +14,7 @@ title: Blog Summary
 
 ## 知识杂谈
 
-- test
+- [配置文件结尾的"rc"是什么](/blog/knowledge/240412.md)
 
 
 
