@@ -50,15 +50,15 @@ module.exports = {
           text: '知识杂谈',
           collapsed: true,
           items: [
-            { text: '配置文件结尾的"rc"是什么', link: '/blog/knowledge/240412.md' },
+            { text: '配置文件结尾的"rc"是什么', link: '/blog/knowledge/220314.md' },
           ]
         },
         {
           text: '文章阅读',
           collapsed: true,
           items: [
-            { text: '前端人该如何持续学习', link: '/blog/article/240410.md' },
-            { text: '前端职业规划2021年', link: '/blog/article/240411.md' },
+            { text: '前端人该如何持续学习', link: '/blog/article/210423.md' },
+            { text: '前端职业规划2021年', link: '/blog/article/210524.md' },
             { text: '告前端同学书', link: '/blog/article/240130.md' },
             { text: '怎样才算是中高级前端', link: '/blog/article/240308.md' },
             { text: '为什么前端面试不考八股文了', link: '/blog/article/240319.md' },

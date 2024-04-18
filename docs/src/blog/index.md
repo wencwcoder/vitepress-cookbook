@@ -14,14 +14,14 @@ title: Blog Summary
 
 ## 知识杂谈
 
-- [配置文件结尾的"rc"是什么](/blog/knowledge/240412.md)
+- [配置文件结尾的"rc"是什么](/blog/knowledge/220314.md)
 
 
 
 ## 文章阅读
 
-- [前端人该如何持续学习](/blog/article/240410.md)
-- [前端职业规划2021年](/blog/article/240411.md)
+- [前端人该如何持续学习](/blog/article/210423.md)
+- [前端职业规划2021年](/blog/article/210524.md)
 - [告前端同学书](/blog/article/240130.md)
 - [怎样才算是中高级前端](/blog/article/240308.md)
 - [为什么前端面试不考八股文了](/blog/article/240319.md)
