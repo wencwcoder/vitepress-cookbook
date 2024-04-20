@@ -151,6 +151,7 @@ Vue VSCode Snippets
 AI Coding
 
 ```markdown
+Baidu Comate
 GitHub Copilot
 GitHub Copilot Chat
 Tabnine
