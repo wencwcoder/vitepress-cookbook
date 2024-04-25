@@ -81,11 +81,11 @@ This is a tip.
 2.  *后端  backend*
 3.  *博客  blog*
 4.  *笔记  note*
-5.  *人工智能  ai*
-6.  *计算机基础  computer-basics*
-7.  *测试运维  devops*
-8.  *产品运营  po*
-9.  *证书考试 certificate-exam*
+5.  *测试运维  devops*
+6.  *人工智能  ai*
+7.  *产品运营  po*
+8.  *证书考试 certificate-exam*
+9.  *计算机基础  computer-basics*
 
 
 
