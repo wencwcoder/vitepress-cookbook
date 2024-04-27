@@ -59,6 +59,7 @@ title: Blog Summary
 - [面试题[其它]](/blog/interview/240205.md)
 - [面试题[其它][场景题]](/blog/interview/230918.md)
 - [面试题[其它][热门题]](/blog/interview/240420.md)
+- [面试题[其它][渡一]](/blog/interview/240424.md)
 
 
 
