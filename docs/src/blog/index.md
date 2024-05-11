@@ -15,6 +15,7 @@ title: Blog Summary
 ## 知识杂谈
 
 - [配置文件结尾的"rc"是什么](/blog/knowledge/220314.md)
+- [为什么删除node_modules慢](/blog/knowledge/240510.md)
 
 
 

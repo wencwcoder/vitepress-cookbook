@@ -58,6 +58,7 @@ module.exports = {
           collapsed: true,
           items: [
             { text: '配置文件结尾的"rc"是什么', link: '/blog/knowledge/220314.md' },
+            { text: '为什么删除node_modules慢', link: '/blog/knowledge/240510.md' },
           ]
         },
         {
