@@ -46,12 +46,12 @@ c、查看配置：
 npm install express –g
 安装完成后到 D:\Nodejs\node_global\node_modules 查看是否有该包
 
-6、安装 npmmirror 中国镜像站
-npm install -g cnpm --registry=https://registry.npmmirror.com
-
-7、添加系统变量 path 的内容
+6、添加系统变量 path 的内容
 我的电脑 -> 右键 -> 属性 ->高级系统设置 -> 环境变量 -> 系统变量 -> path -> 编辑 -> 新建
 - D:\Nodejs\node_global
+
+7、安装 npmmirror 中国镜像站
+npm install -g cnpm --registry=https://registry.npmmirror.com
 
 8、检查 cnpm 是否正常
 cnpm –v
