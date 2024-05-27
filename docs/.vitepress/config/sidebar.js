@@ -8,7 +8,8 @@ module.exports = {
           text: 'JavaScript',
           collapsed: true,
           items: [
-
+            { text: '基本数据类型之间的转换机制', link: '/frontend/javascript/240520.md' },
+            { text: '引用数据类型之间的转换机制', link: '/frontend/javascript/240521.md' },
           ]
         },
         {
