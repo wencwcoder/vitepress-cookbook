@@ -85,6 +85,7 @@ module.exports = {
           collapsed: true,
           items: [
             { text: '面经[主观问题]', link: '/blog/interview/230707.md' },
+            { text: '面经[自我介绍]', link: '/blog/interview/240528.md' },
             { text: '面经[离职原因]', link: '/blog/interview/230515.md' },
             { text: '面试题[HTML5_CSS3]', link: '/blog/interview/230523.md' },
             { text: '面试题[JavaScript]', link: '/blog/interview/230524.md' },
