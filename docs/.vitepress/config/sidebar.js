@@ -8,6 +8,7 @@ module.exports = {
           text: 'JavaScript',
           collapsed: true,
           items: [
+            { text: 'JavaScript事件循环机制', link: '/frontend/javascript/240529.md' },
             { text: '基本数据类型之间的转换机制', link: '/frontend/javascript/240520.md' },
             { text: '引用数据类型之间的转换机制', link: '/frontend/javascript/240521.md' },
           ]
@@ -30,13 +31,12 @@ module.exports = {
       items: [
         { text: 'Summary', link: '/backend/' },
         {
-          text: 'Placeholder',
+          text: 'Nginx',
           collapsed: true,
           items: [
-            { text: 'One', link: '/backend/one' },
-            { text: 'Two', link: '/backend/two' },
+            
           ]
-        }
+        },
       ]
     }
   ],

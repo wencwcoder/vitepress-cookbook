@@ -8,6 +8,7 @@ title: Frontend Summary
 
 ## JavaScript
 
+- [JavaScript事件循环机制](/frontend/javascript/240529.md)
 - [基本数据类型之间的转换机制](/frontend/javascript/240520.md)
 - [引用数据类型之间的转换机制](/frontend/javascript/240521.md)
 
