@@ -122,7 +122,8 @@ This is a tip.
 
 ### 后端
 
-1. *Nginx*
+1. *Java*
+2. *Nginx*
 
 
 
