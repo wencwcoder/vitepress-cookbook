@@ -8,7 +8,7 @@ module.exports = {
           text: 'HTML5_CSS3',
           collapsed: true,
           items: [
-            
+
           ]
         },
         {
@@ -37,6 +37,20 @@ module.exports = {
       text: 'Backend',
       items: [
         { text: 'Summary', link: '/backend/' },
+        {
+          text: 'Java',
+          collapsed: true,
+          items: [
+            
+          ]
+        },
+        {
+          text: 'Java教程[廖雪峰]',
+          collapsed: true,
+          items: [
+            { text: 'Java快速入门', link: '/backend/java-tutorial-liaoxuefeng/240606.md' },
+          ]
+        },
         {
           text: 'Nginx',
           collapsed: true,
