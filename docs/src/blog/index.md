@@ -29,6 +29,12 @@ title: Blog Summary
 
 
 
+## 渡一教育
+
+- [渡一Web前端学习频道](/blog/duyiedu/240424.md)
+
+
+
 ## 简历系列
 
 - [简历](/blog/resume/230913.md)
@@ -61,7 +67,6 @@ title: Blog Summary
 - [面试题[其它]](/blog/interview/240205.md)
 - [面试题[其它][场景题]](/blog/interview/230918.md)
 - [面试题[其它][热门题]](/blog/interview/240420.md)
-- [面试题[其它][渡一]](/blog/interview/240424.md)
 
 
 

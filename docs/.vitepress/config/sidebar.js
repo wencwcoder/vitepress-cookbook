@@ -96,6 +96,13 @@ module.exports = {
           ]
         },
         {
+          text: '渡一教育',
+          collapsed: true,
+          items: [
+            { text: '渡一Web前端学习频道', link: '/blog/duyiedu/240424.md' },
+          ]
+        },
+        {
           text: '简历系列',
           collapsed: true,
           items: [
@@ -130,7 +137,6 @@ module.exports = {
             { text: '面试题[其它]', link: '/blog/interview/240205.md' },
             { text: '面试题[其它][场景题]', link: '/blog/interview/230918.md' },
             { text: '面试题[其它][热门题]', link: '/blog/interview/240420.md' },
-            { text: '面试题[其它][渡一]', link: '/blog/interview/240424.md' },
           ]
         },
         {
