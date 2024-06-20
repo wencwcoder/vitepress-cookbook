@@ -14,6 +14,7 @@ title: Frontend Summary
 
 ## JavaScript
 
+- [JavaScript基础知识](/frontend/javascript/240618.md)
 - [JavaScript实现继承](/frontend/javascript/240610.md)
 - [JavaScript事件循环机制](/frontend/javascript/240529.md)
 - [基本数据类型之间的转换机制](/frontend/javascript/240520.md)
