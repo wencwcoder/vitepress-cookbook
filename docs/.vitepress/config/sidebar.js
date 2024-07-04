@@ -59,6 +59,7 @@ module.exports = {
           collapsed: true,
           items: [
             { text: 'Java快速入门', link: '/backend/java-tutorial-liaoxuefeng/240606.md' },
+            { text: '面向对象编程', link: '/backend/java-tutorial-liaoxuefeng/240702.md' },
           ]
         },
         {
