@@ -73,6 +73,21 @@ module.exports = {
       ]
     }
   ],
+  '/computer-basics': [
+    {
+      text: 'Computer-Basics',
+      items: [
+        { text: 'Summary', link: '/computer-basics/' },
+        {
+          text: 'Linux',
+          collapsed: true,
+          items: [
+            
+          ]
+        },
+      ]
+    }
+  ],
   '/blog': [
     {
       text: 'Blog',
