@@ -29,12 +29,6 @@ title: Blog Summary
 
 
 
-## 渡一教育
-
-- [渡一Web前端学习频道](/blog/duyiedu/240424.md)
-
-
-
 ## 简历系列
 
 - [简历](/blog/resume/230913.md)
@@ -75,3 +69,6 @@ title: Blog Summary
 - [手写题[JavaScript][工具类]](/blog/handwritten/230608.md)
 - [手写题[JavaScript][场景类]](/blog/handwritten/240313.md)
 - [手写题[算法题]](/blog/handwritten/230615.md)
+
+
+
