@@ -122,13 +122,6 @@ module.exports = {
           ]
         },
         {
-          text: '渡一教育',
-          collapsed: true,
-          items: [
-            { text: '渡一Web前端学习频道', link: '/blog/duyiedu/240424.md' },
-          ]
-        },
-        {
           text: '简历系列',
           collapsed: true,
           items: [
@@ -201,6 +194,13 @@ module.exports = {
           collapsed: true,
           items: [
             
+          ]
+        },
+        {
+          text: '渡一教育',
+          collapsed: true,
+          items: [
+            { text: '渡一Web前端学习频道', link: '/note/duyiedu/240424.md' },
           ]
         },
       ]
