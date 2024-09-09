@@ -8,7 +8,7 @@ title: Blog Summary
 
 ## 博客搭建
 
-- [vitepress](/blog/ssg/vitepress.md)
+- [Vitepress](/blog/ssg/vitepress.md)
 
 
 

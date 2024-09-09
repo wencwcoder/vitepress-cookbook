@@ -1,9 +1,9 @@
 ---
-title: vitepress
+title: Vitepress
 date: 2024-04-08官网：
 ---
 
-# vitepress
+# Vitepress
 
 ::: info 链接
 官网：https://vitepress.dev/
