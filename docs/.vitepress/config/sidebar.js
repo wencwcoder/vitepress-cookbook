@@ -73,6 +73,28 @@ module.exports = {
       ]
     }
   ],
+  '/devops': [
+    {
+      text: 'Devops',
+      items: [
+        { text: 'Summary', link: '/devops/' },
+        {
+          text: 'Linux',
+          collapsed: true,
+          items: [
+            
+          ]
+        },
+        {
+          text: 'Nginx',
+          collapsed: true,
+          items: [
+            
+          ]
+        },
+      ]
+    }
+  ],
   '/computer-basics': [
     {
       text: 'Computer-Basics',

@@ -23,9 +23,3 @@ title: Backend Summary
 
 
 
-## Nginx
-
-- test
-
-
-
