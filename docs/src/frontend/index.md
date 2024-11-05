@@ -23,6 +23,12 @@ title: Frontend Summary
 
 
 
+## JavaScript_Reference
+
+- [JavaScript标准内置对象](/frontend/javascript-reference/241105.md)
+
+
+
 ## WebAPI
 
 - test

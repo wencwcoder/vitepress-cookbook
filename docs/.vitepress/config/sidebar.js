@@ -24,6 +24,13 @@ module.exports = {
           ]
         },
         {
+          text: 'JavaScript_Reference',
+          collapsed: true,
+          items: [
+            { text: 'JavaScript标准内置对象', link: '/frontend/javascript-reference/241105.md' },
+          ]
+        },
+        {
           text: 'WebAPI',
           collapsed: true,
           items: [
