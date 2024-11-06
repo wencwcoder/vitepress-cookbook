@@ -31,7 +31,7 @@ title: Frontend Summary
 
 ## WebAPI
 
-- test
+- [XMLHttpRequest](/frontend/webapi/241106.md)
 
 
 

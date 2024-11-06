@@ -34,7 +34,7 @@ module.exports = {
           text: 'WebAPI',
           collapsed: true,
           items: [
-
+            { text: 'XMLHttpRequest', link: '/frontend/webapi/241106.md' },
           ]
         },
         {
