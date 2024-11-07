@@ -39,6 +39,13 @@ module.exports = {
           ]
         },
         {
+          text: 'WebAPI_Window',
+          collapsed: true,
+          items: [
+            { text: 'requestAnimationFrame()', link: '/frontend/webapi-window/241108.md' },
+          ]
+        },
+        {
           text: 'React',
           collapsed: true,
           items: [
