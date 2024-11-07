@@ -190,8 +190,8 @@ module.exports = {
             { text: '面试题[低代码]', link: '/blog/interview/240315.md' },
             { text: '面试题[计算机网络]', link: '/blog/interview/230618.md' },
             { text: '面试题[操作系统]', link: '/blog/interview/230923.md' },
+            { text: '面试题[场景题]', link: '/blog/interview/230918.md' },
             { text: '面试题[其它]', link: '/blog/interview/240205.md' },
-            { text: '面试题[其它][场景题]', link: '/blog/interview/230918.md' },
             { text: '面试题[其它][热门题]', link: '/blog/interview/240420.md' },
           ]
         },
@@ -201,7 +201,7 @@ module.exports = {
           items: [
             { text: '手写题[JavaScript][工具类]', link: '/blog/handwritten/230608.md' },
             { text: '手写题[JavaScript][场景类]', link: '/blog/handwritten/240313.md' },
-            { text: '手写题[算法题]', link: '/blog/handwritten/230615.md' }
+            { text: '手写题[JavaScript][算法题]', link: '/blog/handwritten/230615.md' }
           ]
         }
       ]

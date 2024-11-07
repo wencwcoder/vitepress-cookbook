@@ -58,8 +58,8 @@ title: Blog Summary
 - [面试题[低代码]](/blog/interview/240315.md)
 - [面试题[计算机网络]](/blog/interview/230618.md)
 - [面试题[操作系统]](/blog/interview/230923.md)
+- [面试题[场景题]](/blog/interview/230918.md)
 - [面试题[其它]](/blog/interview/240205.md)
-- [面试题[其它][场景题]](/blog/interview/230918.md)
 - [面试题[其它][热门题]](/blog/interview/240420.md)
 
 
@@ -68,7 +68,7 @@ title: Blog Summary
 
 - [手写题[JavaScript][工具类]](/blog/handwritten/230608.md)
 - [手写题[JavaScript][场景类]](/blog/handwritten/240313.md)
-- [手写题[算法题]](/blog/handwritten/230615.md)
+- [手写题[JavaScript][算法题]](/blog/handwritten/230615.md)
 
 
 
