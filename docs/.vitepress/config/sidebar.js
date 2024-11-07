@@ -192,7 +192,6 @@ module.exports = {
             { text: '面试题[操作系统]', link: '/blog/interview/230923.md' },
             { text: '面试题[场景题]', link: '/blog/interview/230918.md' },
             { text: '面试题[其它]', link: '/blog/interview/240205.md' },
-            { text: '面试题[其它][热门题]', link: '/blog/interview/240420.md' },
           ]
         },
         {
