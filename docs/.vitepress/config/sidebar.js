@@ -34,6 +34,7 @@ module.exports = {
           text: 'WebAPI',
           collapsed: true,
           items: [
+            { text: 'WebAPI补充知识', link: '/frontend/webapi/241109.md' },
             { text: 'Blob', link: '/frontend/webapi/241107.md' },
             { text: 'XMLHttpRequest', link: '/frontend/webapi/241106.md' },
           ]

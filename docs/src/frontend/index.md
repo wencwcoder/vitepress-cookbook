@@ -31,6 +31,7 @@ title: Frontend Summary
 
 ## WebAPI
 
+- [WebAPI补充知识](/frontend/webapi/241109.md)
 - [Blob](/frontend/webapi/241107.md)
 - [XMLHttpRequest](/frontend/webapi/241106.md)
 
