@@ -98,10 +98,10 @@ This is a tip.
 
 1.  *HTML5_CSS3*
 2.  *JavaScript*
-3.  *HTTP*
-4.  *WebAPI*
-5.  *浏览器*
-6.  *TypeScript*
+3.  *TypeScript*
+4.  *HTTP*
+5.  *WebAPI*
+6.  *浏览器*
 7.  *Vue*
 8.  *React*
 9.  *Nodejs*
@@ -116,9 +116,10 @@ This is a tip.
 18.  *微信小程序*
 19.  *uniapp*
 20.  *Threejs*
-21.  *可视化*
-22.  *音视频*
-23.  *HarmonyOS*
+21.  *WebGL*
+22.  *可视化*
+23.  *音视频*
+24.  *HarmonyOS*
 
 
 
