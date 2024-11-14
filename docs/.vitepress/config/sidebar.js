@@ -16,6 +16,7 @@ module.exports = {
           collapsed: true,
           items: [
             { text: 'JavaScript基础知识', link: '/frontend/javascript/240618.md' },
+            { text: 'JavaScript实战案例', link: '/frontend/javascript/241114.md' },
             { text: 'JavaScript实现继承', link: '/frontend/javascript/240610.md' },
             { text: 'JavaScript原型和原型链', link: '/frontend/javascript/240701.md' },
             { text: 'JavaScript事件循环机制', link: '/frontend/javascript/240529.md' },
