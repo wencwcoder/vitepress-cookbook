@@ -118,7 +118,7 @@ module.exports = {
       items: [
         { text: 'Summary', link: '/computer-basics/' },
         {
-          text: 'Linux',
+          text: '正则表达式',
           collapsed: true,
           items: [
             
