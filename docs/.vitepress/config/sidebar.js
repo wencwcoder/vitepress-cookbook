@@ -22,6 +22,7 @@ module.exports = {
             { text: 'JavaScript事件循环机制', link: '/frontend/javascript/240529.md' },
             { text: '基本数据类型之间的转换机制', link: '/frontend/javascript/240520.md' },
             { text: '引用数据类型之间的转换机制', link: '/frontend/javascript/240521.md' },
+            { text: 'JavaScript_This', link: '/frontend/javascript/241128.md' },
           ]
         },
         {
