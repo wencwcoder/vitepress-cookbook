@@ -20,10 +20,10 @@ module.exports = {
             { text: 'JavaScript实现继承', link: '/frontend/javascript/240610.md' },
             { text: 'JavaScript原型和原型链', link: '/frontend/javascript/240701.md' },
             { text: 'JavaScript事件循环机制', link: '/frontend/javascript/240529.md' },
-            { text: '基本数据类型之间的转换机制', link: '/frontend/javascript/240520.md' },
-            { text: '引用数据类型之间的转换机制', link: '/frontend/javascript/240521.md' },
             { text: 'JavaScript_This', link: '/frontend/javascript/241128.md' },
             { text: 'JavaScript_Promise', link: '/frontend/javascript/241127.md' },
+            { text: '基本数据类型之间的转换机制', link: '/frontend/javascript/240520.md' },
+            { text: '引用数据类型之间的转换机制', link: '/frontend/javascript/240521.md' },
           ]
         },
         {
