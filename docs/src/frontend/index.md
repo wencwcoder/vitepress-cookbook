@@ -21,6 +21,7 @@ title: Frontend Summary
 - [JavaScript事件循环机制](/frontend/javascript/240529.md)
 - [JavaScript_This](/frontend/javascript/241128.md)
 - [JavaScript_Promise](/frontend/javascript/241127.md)
+- [节流和防抖](/frontend/javascript/241129.md)
 - [基本数据类型之间的转换机制](/frontend/javascript/240520.md)
 - [引用数据类型之间的转换机制](/frontend/javascript/240521.md)
 
