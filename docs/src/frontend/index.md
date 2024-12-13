@@ -22,6 +22,7 @@ title: Frontend Summary
 - [JavaScript_This](/frontend/javascript/241128.md)
 - [JavaScript_Promise](/frontend/javascript/241127.md)
 - [节流和防抖](/frontend/javascript/241129.md)
+- [深拷贝和浅拷贝](/frontend/javascript/241130.md)
 - [基本数据类型之间的转换机制](/frontend/javascript/240520.md)
 - [引用数据类型之间的转换机制](/frontend/javascript/240521.md)
 
