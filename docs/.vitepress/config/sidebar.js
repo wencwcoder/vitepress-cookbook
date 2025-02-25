@@ -138,7 +138,13 @@ module.exports = {
       items: [
         { text: 'Summary', link: '/blog/' },
         { text: 'Link', link: '/blog/link.md' },
-        { text: '前端开发环境搭建', link: '/blog/frontend-environment-setup.md' },
+        {
+          text: '开发环境搭建',
+          collapsed: true,
+          items: [
+            { text: '前端开发环境搭建', link: '/blog/environment-setup/frontend-environment-setup.md' },
+          ]
+        },
         {
           text: '博客搭建',
           collapsed: true,
