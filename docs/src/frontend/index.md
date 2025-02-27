@@ -14,8 +14,8 @@ title: Frontend Summary
 
 ## JavaScript
 
-- [JavaScript基础知识](/frontend/javascript/240618.md)
-- [JavaScript实战案例](/frontend/javascript/241114.md)
+- [JavaScript基础入门](/frontend/javascript/240618.md)
+- [JavaScript实战应用](/frontend/javascript/241114.md)
 - [JavaScript实现继承](/frontend/javascript/240610.md)
 - [JavaScript原型和原型链](/frontend/javascript/240701.md)
 - [JavaScript事件循环机制](/frontend/javascript/240529.md)
@@ -51,8 +51,8 @@ title: Frontend Summary
 
 ## React
 
-- [React基础知识](/frontend/react/231215.md)
-- [React实战案例](/frontend/react/231216.md)
+- [React基础入门](/frontend/react/231215.md)
+- [React实战应用](/frontend/react/231216.md)
 - [React官网学习记录](/frontend/react/231220.md)
 - [React官网学习记录（续）](/frontend/react/240730.md)
 
