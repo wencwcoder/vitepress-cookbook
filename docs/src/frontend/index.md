@@ -45,6 +45,7 @@ title: Frontend Summary
 
 ## WebAPI_Window
 
+- [fetch()](/frontend/webapi-window/250311.md)
 - [requestAnimationFrame()](/frontend/webapi-window/241108.md)
 
 

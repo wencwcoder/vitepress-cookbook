@@ -49,6 +49,7 @@ module.exports = {
           text: 'WebAPI_Window',
           collapsed: true,
           items: [
+            { text: 'fetch()', link: '/frontend/webapi-window/250311.md' },
             { text: 'requestAnimationFrame()', link: '/frontend/webapi-window/241108.md' },
           ]
         },
