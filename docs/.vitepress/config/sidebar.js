@@ -230,7 +230,7 @@ module.exports = {
           text: '随笔',
           collapsed: true,
           items: [
-            
+            { text: 'Philosophy', link: '/note/essay/260416.md' },
           ]
         },
         {

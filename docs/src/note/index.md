@@ -8,7 +8,7 @@ title: Note Summary
 
 ## 随笔
 
-- test
+- [Philosophy](/note/essay/260416.md)
 
 
 
