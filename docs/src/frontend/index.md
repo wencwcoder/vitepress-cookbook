@@ -37,13 +37,25 @@ title: Frontend Summary
 
 ## WebAPI
 
-- [WebAPI补充知识](/frontend/webapi/241109.md)
+链接：https://developer.mozilla.org/zh-CN/docs/Web/API
+
+- [WebAPI拓展知识](/frontend/webapi/241109.md)
 - [Blob](/frontend/webapi/241107.md)
 - [XMLHttpRequest](/frontend/webapi/241106.md)
 
 
 
+## WebAPI_Document
+
+链接：https://developer.mozilla.org/zh-CN/docs/Web/API/Document
+
+- test
+
+
+
 ## WebAPI_Window
+
+链接：https://developer.mozilla.org/zh-CN/docs/Web/API/Window
 
 - [fetch()](/frontend/webapi-window/250311.md)
 - [requestAnimationFrame()](/frontend/webapi-window/241108.md)
