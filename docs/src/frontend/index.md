@@ -31,7 +31,8 @@ title: Frontend Summary
 
 ## JavaScript_Reference
 
-- [JavaScript标准内置对象](/frontend/javascript-reference/241105.md)
+- [JavaScript参考](/frontend/javascript-reference/260420.md)
+- [JavaScript内置对象](/frontend/javascript-reference/241105.md)
 
 
 

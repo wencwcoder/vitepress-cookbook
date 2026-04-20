@@ -33,7 +33,8 @@ module.exports = {
           text: 'JavaScript_Reference',
           collapsed: true,
           items: [
-            { text: 'JavaScript标准内置对象', link: '/frontend/javascript-reference/241105.md' },
+            { text: 'JavaScript参考', link: '/frontend/javascript-reference/260420.md' },
+            { text: 'JavaScript内置对象', link: '/frontend/javascript-reference/241105.md' },
           ]
         },
         {
@@ -49,7 +50,7 @@ module.exports = {
           text: 'WebAPI_Document',
           collapsed: true,
           items: [
-            
+
           ]
         },
         {
