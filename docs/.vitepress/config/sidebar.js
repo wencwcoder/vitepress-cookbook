@@ -17,9 +17,9 @@ module.exports = {
           items: [
             { text: 'JavaScript基础入门', link: '/frontend/javascript/240618.md' },
             { text: 'JavaScript实战应用', link: '/frontend/javascript/241114.md' },
-            { text: 'JavaScript实现继承', link: '/frontend/javascript/240610.md' },
             { text: 'JavaScript原型和原型链', link: '/frontend/javascript/240701.md' },
-            { text: 'JavaScript事件循环机制', link: '/frontend/javascript/240529.md' },
+            { text: 'JavaScript实现继承', link: '/frontend/javascript/240610.md' },
+            { text: 'JavaScript事件循环', link: '/frontend/javascript/240529.md' },
             { text: 'JavaScript_this', link: '/frontend/javascript/241128.md' },
             { text: 'JavaScript_call_apply_bind', link: '/frontend/javascript/241221.md' },
             { text: 'JavaScript_Promise', link: '/frontend/javascript/241127.md' },
