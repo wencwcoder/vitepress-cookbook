@@ -48,7 +48,7 @@ title: Blog Summary
 - [面试题[React]](/blog/interview/230606.md)
 - [面试题[React生态系统]](/blog/interview/241111.md)
 - [面试题[Vue vs React]](/blog/interview/230920.md)
-- [面试题[Node]](/blog/interview/230922.md)
+- [面试题[Nodejs]](/blog/interview/230922.md)
 - [面试题[HTTP]](/blog/interview/230526.md)
 - [面试题[浏览器]](/blog/interview/230525.md)
 - [面试题[性能优化]](/blog/interview/230607.md)

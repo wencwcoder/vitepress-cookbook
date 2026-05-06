@@ -202,7 +202,7 @@ module.exports = {
             { text: '面试题[React]', link: '/blog/interview/230606.md' },
             { text: '面试题[React生态系统]', link: '/blog/interview/241111.md' },
             { text: '面试题[Vue vs React]', link: '/blog/interview/230920.md' },
-            { text: '面试题[Node]', link: '/blog/interview/230922.md' },
+            { text: '面试题[Nodejs]', link: '/blog/interview/230922.md' },
             { text: '面试题[HTTP]', link: '/blog/interview/230526.md' },
             { text: '面试题[浏览器]', link: '/blog/interview/230525.md' },
             { text: '面试题[性能优化]', link: '/blog/interview/230607.md' },
