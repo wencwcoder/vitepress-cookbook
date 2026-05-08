@@ -64,6 +64,19 @@ This is a tip.
 ## Getting Started
 ```
 
+```yaml
+---
+title: VitePress
+date: 2023-04-20
+---
+
+# VitePress
+
+
+
+## Getting Started
+```
+
 
 
 ## 编写归类
