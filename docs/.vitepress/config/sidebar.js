@@ -262,6 +262,13 @@ module.exports = {
             { text: '渡一Web前端学习频道', link: '/note/duyiedu/240424.md' },
           ]
         },
+        {
+          text: '前端懂王',
+          collapsed: true,
+          items: [
+            { text: '前端懂王面试题', link: '/note/dongwang/260508.md' },
+          ]
+        },
       ]
     }
   ]
