@@ -213,7 +213,6 @@ module.exports = {
             { text: '面试题[低代码]', link: '/blog/interview/240315.md' },
             { text: '面试题[计算机网络]', link: '/blog/interview/230618.md' },
             { text: '面试题[操作系统]', link: '/blog/interview/230923.md' },
-            { text: '面试题[场景题]', link: '/blog/interview/230918.md' },
             { text: '面试题[其它]', link: '/blog/interview/240205.md' },
             { text: '面试题[AI大模型]', link: '/blog/interview/260421.md' },
           ]
