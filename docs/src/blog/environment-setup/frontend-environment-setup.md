@@ -15,7 +15,7 @@ date: 2022-07-17
 
 ### Node.js
 
-下载：https://nodejs.org/en/download/
+下载官网：https://nodejs.org/en/download/
 
 下载路径：Download Node.js v20.12.1 -- node-v20.12.1-x64.msi
 
@@ -26,7 +26,8 @@ date: 2022-07-17
 D:\Nodejs
 
 2、安装测试
-node -v、npm -v
+node -v
+npm -v
 
 3、配置 npm 的全局模块安装路径及 cache 路径
 a、在 D:\Nodejs 下新建文件夹：
@@ -38,7 +39,7 @@ c、查看配置：
 - npm config list
 
 4、添加系统变量
-我的电脑 -> 右键 -> 属性 ->高级系统设置 -> 环境变量 -> 系统变量 -> 新建
+我的电脑 -> 右键 -> 属性 -> 高级系统设置 -> 环境变量 -> 系统变量 -> 新建
 变量名：NODE_PATH
 变量值：D:\Nodejs\node_global\node_modules
 
@@ -47,7 +48,7 @@ npm install express –g
 安装完成后到 D:\Nodejs\node_global\node_modules 查看是否有该包
 
 6、添加系统变量 path 的内容
-我的电脑 -> 右键 -> 属性 ->高级系统设置 -> 环境变量 -> 系统变量 -> path -> 编辑 -> 新建
+我的电脑 -> 右键 -> 属性 -> 高级系统设置 -> 环境变量 -> 系统变量 -> path -> 编辑 -> 新建
 - D:\Nodejs\node_global
 
 7、安装 npmmirror 中国镜像站
@@ -59,7 +60,7 @@ cnpm –v
 9、设置 npm 默认镜像
 默认镜像：https://registry.npmjs.org/
 设置镜像：npm config set registry https://registry.npmmirror.com
-获取镜像：npm get registry
+获取镜像：npm config get registry
 临时设置：npm install @micro-design/cli --registry=https://registry.npmmirror.com
 ```
 
