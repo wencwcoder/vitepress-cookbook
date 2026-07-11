@@ -259,6 +259,7 @@ module.exports = {
           text: '渡一教育',
           collapsed: true,
           items: [
+            { text: '前端大师课', link: '/note/duyiedu/260711.md' },
             { text: '渡一Web前端学习频道', link: '/note/duyiedu/240424.md' },
           ]
         },
