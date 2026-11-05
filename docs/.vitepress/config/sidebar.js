@@ -261,6 +261,11 @@ module.exports = {
           items: [
             { text: '前端大师课', link: '/note/duyiedu/260711.md' },
             { text: '渡一Web前端学习频道', link: '/note/duyiedu/240424.md' },
+            { text: '渡一前端提薪课', link: '/note/duyiedu/261027.md' },
+            { text: '渡一前端必修课', link: '/note/duyiedu/261028.md' },
+            { text: '渡一前端公开大师课', link: '/note/duyiedu/261029.md' },
+            { text: '渡一前端直播必修课', link: '/note/duyiedu/261030.md' },
+            { text: '渡一前端直播提升课', link: '/note/duyiedu/261031.md' },
           ]
         },
         {
